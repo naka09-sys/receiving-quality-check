@@ -59,9 +59,9 @@
 
 ## 画面イメージ
 
-![CSVアップロード画面](images/受領異常確認ツール - CSVアップロード画面.png)
-![異常データ一覧](images/受領異常確認ツール - 期限異常・398検出画面（サンプル）.png)
-![異常データ一覧](images/受領異常確認ツール - DAMAGED検出画面（サンプル）.png)
+![CSVアップロード画面](images/upload_sample.png)
+![期限異常・398検出データ一覧](images/result_normal_sample.png)
+![DAMAGED異常データ一覧](images/result_damaged_sample.png)
 
 ---
 
